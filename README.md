@@ -10,12 +10,6 @@
 
 &emsp;
 
-<div align="center">
-<a href="https://github.com/barbara-musial/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=barbara-musial&layout=compact&theme=radical" alt="Most Used Languages Stats"></a>
-</div>
-
-&emsp;
-
 <h4 align="center">What I've learned so far:</h4>
 <div align="center">
 <img src="./icons/5968267.png" alt="HTML Icon" width="50">
@@ -26,5 +20,5 @@
 &emsp;
 
 <div align="center">
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=barbara-musial&theme=radical"></a>
+<a href="https://github.com/barbara-musial/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=barbara-musial&layout=compact&theme=radical" alt="Most Used Languages Stats"></a>
 </div>
