@@ -5,7 +5,6 @@
 <div align="center">
 <a href="https://www.instagram.com/must_have_dev/"><img src="./icons/2111463.png" alt="Instagram Icon" width="25"></a>&nbsp
 <a href="https://www.linkedin.com/in/barbara-musia%C5%82-403911196/"><img src="./icons/3536505.png" alt="LinkedIn Icon" width="25"></a>&nbsp
-<a href="https://steamcommunity.com/id/wrozbitabasiej/"><img src="./icons/3782.png" alt="Steam Icon" width="25"></a>
 </div>
 
 <h4 align="center">What I've learned so far:</h4>
