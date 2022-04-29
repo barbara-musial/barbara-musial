@@ -1,11 +1,11 @@
+<h2 align="center">Hi there 👋 I'm Basia 🙋🏻‍♀️</h2>
+
+<h3 align="center">Welcome to my GitHub 💜</h3>
+
 <div align="center">
 <a href="https://www.instagram.com/must_have_dev/"><img src="./icons/2111463.png" alt="Instagram Icon" width="25"></a>&nbsp
 <a href="https://www.linkedin.com/in/barbara-musia%C5%82-403911196/"><img src="./icons/3536505.png" alt="LinkedIn Icon" width="25"></a>&nbsp
 </div>
-
-<h2 align="center">Hi there 👋 I'm Basia 🙋🏻‍♀️</h2>
-
-<h3 align="center">Welcome to my GitHub 💜</h3>
 
 <h4 align="center">What I've learned so far:</h4>
 <div align="center">
