@@ -8,8 +8,6 @@
 <a href="https://steamcommunity.com/id/wrozbitabasiej/"><img src="./icons/3782.png" alt="Steam Icon" width="25"></a>
 </div>
 
-&emsp;
-
 <h4 align="center">What I've learned so far:</h4>
 <div align="center">
 <img src="./icons/5968267.png" alt="HTML Icon" width="50">
